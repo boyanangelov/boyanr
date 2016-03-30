@@ -1,0 +1,9 @@
+Package: boyanr
+Type: Package
+Title: Useful code from my work
+Version: 0.1.0
+Author: Boyan Angelov
+Maintainer: <boyan.angelov@gmail.com>
+Description: Just a collection of R functions and templates that I use in my daily work
+License: GPL
+LazyData: TRUE
