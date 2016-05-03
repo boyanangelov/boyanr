@@ -12,3 +12,7 @@ devtools::install_github('boyanr', 'bobbyangelov')
 # load package
 library(boyanr)
 ```
+
+Example of `missmap` usage:
+
+![nyc](http://i64.tinypic.com/20rjtz9.png)
