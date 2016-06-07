@@ -1,5 +1,7 @@
 # BoyanR package
 
+This is a collection of R functions that I have created myself or have found in solutions and suggestions on the net. If a known attribution is missing, please contact me.
+
 ## Installation
 
 ```r
