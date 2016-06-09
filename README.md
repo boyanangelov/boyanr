@@ -9,7 +9,7 @@ This is a collection of R functions that I have created myself or have found in 
 install.packages("devtools")
 
 # install package
-devtools::install_github('boyanr', 'bobbyangelov')
+devtools::install_github('bobbyangelov/boyanr')
 
 # load package
 library(boyanr)
@@ -19,8 +19,8 @@ List of available functions:
 
 * `missmap()`: generates a visualisation of missing values
 * `inference()`: useful for statistical inference 
-* `multiplot()`: easily plot several `ggplot`s next to each other
 * `outliersDetect()`: visualise and modify outliers in a variable 
+* `coltype()`: check column types in a dataframe object
 
 Example of `missmap` usage:
 
