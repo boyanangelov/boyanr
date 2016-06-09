@@ -26,6 +26,6 @@ Example of `missmap` usage:
 
 ![nyc](http://i64.tinypic.com/20rjtz9.png)
 
-Example of 'outliersDetect()' usage:
+Example of `outliersDetect()` usage:
 
 ![outliers_detect](http://s33.postimg.org/wtw1x7lov/outliers_detect.png)
