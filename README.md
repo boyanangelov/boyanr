@@ -28,4 +28,4 @@ Example of `missmap` usage:
 
 Example of `outliersDetect()` usage:
 
-![outliers_detect](http://s33.postimg.org/wtw1x7lov/outliers_detect.png)
+![outliers_detect](https://s31.postimg.org/hr4n8hoaz/outliers.png)
