@@ -1,5 +1,7 @@
 # BoyanR package
 
+This is a collection of R functions that I have created myself or have found in solutions and suggestions on the net. If a known attribution is missing, please contact me.
+
 ## Installation
 
 ```r
@@ -7,7 +9,7 @@
 install.packages("devtools")
 
 # install package
-devtools::install_github('boyanr', 'bobbyangelov')
+devtools::install_github('bobbyangelov/boyanr')
 
 # load package
 library(boyanr)
@@ -17,9 +19,13 @@ List of available functions:
 
 * `missmap()`: generates a visualisation of missing values
 * `inference()`: useful for statistical inference 
-* `multiplot()`: easily plot several `ggplot`s next to each other
 * `outliersDetect()`: visualise and modify outliers in a variable 
+* `coltype()`: check column types in a dataframe object
 
 Example of `missmap` usage:
 
 ![nyc](http://i64.tinypic.com/20rjtz9.png)
+
+Example of `outliersDetect()` usage:
+
+![outliers_detect](http://s33.postimg.org/wtw1x7lov/outliers_detect.png)

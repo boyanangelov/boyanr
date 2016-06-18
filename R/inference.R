@@ -1,3 +1,5 @@
+# CREDIT: DATACAMP
+
 inference <- function(y, x = NULL,
          est = c("mean", "median", "proportion"),
          success = NULL, order = NULL,
