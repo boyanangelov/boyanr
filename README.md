@@ -22,10 +22,12 @@ List of available functions:
 * `outliersDetect()`: visualise and modify outliers in a variable 
 * `coltype()`: check column types in a dataframe object
 
+Example of `outliersDetect()` usage:
+
+![outliers_detect](https://s31.postimg.org/hr4n8hoaz/outliers.png)
+
 Example of `missmap` usage:
 
 ![nyc](http://i64.tinypic.com/20rjtz9.png)
 
-Example of `outliersDetect()` usage:
 
-![outliers_detect](https://s31.postimg.org/hr4n8hoaz/outliers.png)
